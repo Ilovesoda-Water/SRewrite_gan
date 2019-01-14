@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="836d20f5-2e92-40e1-bbcf-a3002c401827" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="868991175">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SCPN_GAN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2486">
+              <caret line="122" column="31" selection-start-line="122" selection-start-column="31" selection-end-line="122" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#68#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/translation_quality_model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/helper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3806">
+              <caret line="176" column="4" selection-start-line="176" selection-start-column="4" selection-end-line="176" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train_discriminator_gru_add_pad_pack_greedy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1562">
+              <caret line="80" column="65" selection-start-line="80" selection-start-column="65" selection-end-line="80" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6534">
+              <caret line="306" column="8" selection-start-line="306" selection-start-column="8" selection-end-line="306" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/discriminator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scpn_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6908">
+              <caret line="316" column="4" selection-start-line="316" selection-start-column="4" selection-end-line="316" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tmp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3498">
+              <caret line="168" column="108" selection-start-line="168" selection-start-column="108" selection-end-line="168" selection-end-column="108" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>adv_dis_save</find>
+      <find>dis</find>
+      <find>gen</find>
+      <find>adv_gen_batch_size</find>
+      <find>dis_train_batches</find>
+      <find>dis_dev_batches</find>
+      <find>out_trans_len_nps</find>
+      <find>generated_sentence</find>
+      <find>adv_dis_batch_size</find>
+      <find>pack</find>
+      <find>greedy</find>
+      <find>adv_dev_</find>
+      <find>dis_embedding_dim</find>
+      <find>dis_hidden_dim</find>
+      <find>vocab</find>
+      <find>get_wordmap</find>
+      <find>dev_minibatches</find>
+      <find>adv_dev_batches</find>
+      <find>adv_dis_dev_batches</find>
+      <find>adv_dis_log</find>
+      <find>PG</find>
+      <find>save_freq</find>
+      <find>d_steps</find>
+      <find>gen_gen_data_adv</find>
+      <find>init_trained_model_gen_path</find>
+      <find>best_nll_loss</find>
+      <find>cpu</find>
+      <find>out_nps</find>
+      <find>generator</find>
+      <find>inp_nps</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SCPN_GAN.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Documents/NetSarang/Xftp/Temporary/helper.py" />
+        <option value="$PROJECT_DIR$/greedy_beam_compare" />
+        <option value="$PROJECT_DIR$/discriminator_cnn.py" />
+        <option value="$USER_HOME$/Documents/NetSarang/Xftp/Temporary/SCPN_GAN.py" />
+        <option value="$PROJECT_DIR$/helper1.py" />
+        <option value="$PROJECT_DIR$/scpn_utils.py" />
+        <option value="$USER_HOME$/Documents/NetSarang/Xftp/Temporary/scpn_utils.py" />
+        <option value="$PROJECT_DIR$/models/train_discriminator_gru_add_pad_pack.py" />
+        <option value="$USER_HOME$/Documents/NetSarang/Xftp/Temporary/train_discriminator_gru_add_pad_pack [4].py" />
+        <option value="$USER_HOME$/Documents/NetSarang/Xftp/Temporary/train_discriminator_gru_add_pad_pack [7].py" />
+        <option value="$USER_HOME$/Documents/NetSarang/Xftp/Temporary/discriminator [3].py" />
+        <option value="$PROJECT_DIR$/translation_quality_model.py" />
+        <option value="$PROJECT_DIR$/train_translation_quality.py" />
+        <option value="$PROJECT_DIR$/discriminator.py" />
+        <option value="$PROJECT_DIR$/tmp1.py" />
+        <option value="$PROJECT_DIR$/train_discriminator_gru_add_pad_pack.py" />
+        <option value="$PROJECT_DIR$/train_discriminator_gru_add_pad_pack_greedy.py" />
+        <option value="$USER_HOME$/Documents/NetSarang/Xftp/Temporary/train_discriminator_gru_add_pad_pack_greedy [3].py" />
+        <option value="$USER_HOME$/Documents/NetSarang/Xftp/Temporary/train_discriminator_gru_add_pad_pack_greedy [11].py" />
+        <option value="$PROJECT_DIR$/filter_que_paras_adv.py" />
+        <option value="$PROJECT_DIR$/helper.py" />
+        <option value="$PROJECT_DIR$/SCPN_GAN.py" />
+        <option value="$PROJECT_DIR$/tmp.py" />
+        <option value="$PROJECT_DIR$/generator.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-139" />
+    <option name="y" value="45" />
+    <option name="width" value="1440" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="scpn_gan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scpn_gan" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../scpn-master" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\question rewrite\scpn_gan" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\question rewrite\scpn_gan" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.tmp">
+    <configuration name="tmp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="scpn_gan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tmp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tmp1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="scpn_gan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tmp1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.tmp" />
+      <item itemvalue="Python.tmp1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tmp" />
+        <item itemvalue="Python.tmp1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="836d20f5-2e92-40e1-bbcf-a3002c401827" name="Default" comment="" />
+      <created>1532169260192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532169260192</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20254111" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.06334232" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/helper.py" />
+    <entry file="file://$PROJECT_DIR$/greedy_beam_compare">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/tmp.py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/SCPN_GAN.py" />
+    <entry file="file://$PROJECT_DIR$/helper1.py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/scpn_utils.py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/SCPN_GAN [4].py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/train_discriminator_gru_add_pad_pack [4].py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/train_discriminator_gru_add_pad_pack [6].py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/train_discriminator_gru_add_pad_pack [7].py" />
+    <entry file="file://$PROJECT_DIR$/discriminator_cnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/SCPN_GAN [5].py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/SCPN_GAN [6].py" />
+    <entry file="file://$PROJECT_DIR$/train_translation_quality.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="32" column="86" selection-start-line="32" selection-start-column="86" selection-end-line="32" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp1.py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/train_discriminator_gru_add_pad_pack [9].py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/discriminator.py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/discriminator [2].py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/train_discriminator_gru_add_pad_pack.py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/discriminator [3].py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/discriminator [4].py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/discriminator [5].py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/train_discriminator_gru_add_pad_pack [2].py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/train_discriminator_gru_add_pad_pack_greedy.py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/discriminator [6].py" />
+    <entry file="file://$PROJECT_DIR$/train_discriminator_gru_add_pad_pack.py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/train_discriminator_gru_add_pad_pack [3].py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/train_discriminator_gru_add_pad_pack_greedy [2].py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/helper1.py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/train_discriminator_gru_add_pad_pack_greedy [3].py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/train_discriminator_gru_add_pad_pack_greedy [4].py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/train_discriminator_gru_add_pad_pack_greedy [5].py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/train_discriminator_gru_add_pad_pack_greedy [8].py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/train_discriminator_gru_add_pad_pack_greedy [9].py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/train_discriminator_gru_add_pad_pack_greedy [10].py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/train_discriminator_gru_add_pad_pack_greedy [12].py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/-756103818/sys.py" />
+    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/train_discriminator_gru_add_pad_pack_greedy [11].py" />
+    <entry file="file://$PROJECT_DIR$/filter_que_paras_adv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="114" selection-start-line="7" selection-start-column="114" selection-end-line="7" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SCPN_GAN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2486">
+          <caret line="122" column="31" selection-start-line="122" selection-start-column="31" selection-end-line="122" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/translation_quality_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3806">
+          <caret line="176" column="4" selection-start-line="176" selection-start-column="4" selection-end-line="176" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_discriminator_gru_add_pad_pack_greedy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1562">
+          <caret line="80" column="65" selection-start-line="80" selection-start-column="65" selection-end-line="80" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6534">
+          <caret line="306" column="8" selection-start-line="306" selection-start-column="8" selection-end-line="306" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scpn_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6908">
+          <caret line="316" column="4" selection-start-line="316" selection-start-column="4" selection-end-line="316" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3498">
+          <caret line="168" column="108" selection-start-line="168" selection-start-column="108" selection-end-line="168" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discriminator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

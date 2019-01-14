@@ -1,0 +1,7 @@
+idx	tokens	parse
+2	A brown dog is attacking another animal in front of the tall man in pants .	 (ROOT (S (NP (DT A) (JJ brown) (NN dog)) (VP (VBZ is) (VP (VBG attacking) (NP (NP (DT another) (NN animal)) (PP (IN in) (NP (NP (NN front)) (PP (IN of) (NP (NP (DT the) (JJ tall) (NN man)) (PP (IN in) (NP (NNS pants)))))))))) (. .)))
+
+
+
+
+

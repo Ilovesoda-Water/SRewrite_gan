@@ -1,0 +1,35 @@
+idx	tokens	parse
+0	how did armando christian perez become famous	 (ROOT (SBARQ (WHADVP (WRB how)) (SQ (VBD did) (NP (JJ armando) (NN christian) (NN perez)) (VP (VB become) (ADJP (JJ famous))))))
+1	what bird family is the owl	 (ROOT (SBARQ (WHNP (WDT what) (NN bird) (NN family)) (SQ (VBZ is) (NP (DT the) (NN owl)))))
+2	how many nature oceans are on earth	 (ROOT (SBARQ (WHNP (WHADJP (WRB how) (JJ many)) (NNP nature) (NNS oceans)) (SQ (VBP are) (PP (IN on) (NP (NN earth))))))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

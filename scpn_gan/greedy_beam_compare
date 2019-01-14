@@ -1,0 +1,73 @@
+gt output: somewhere along the line , i became frightened of you .
+greedy: even in the way , i was afraid of you .
+gpu beam : even for a moment , i was afraid of you . EOS
+gt output: `` consider yourself a guest .
+greedy: `` consider yourself a guest .
+gpu beam : `` consider yourself a guest . EOS
+gt output: about 24 hours and thousands of micro@@ transactions later , he was above $ 20 million .
+greedy: about twenty-four hours and thousands of micro@@ transactions later , he was at $ 20 million .
+gpu beam : about twenty-four hours and thousands of micro@@ transactions later , he was at $ 20 million . EOS
+gt output: the licensing authority shall use any ta@@ mper@@ -@@ proof method to record the quantity allocated in such a way as to make it impossible to insert figures or references .
+greedy: the licensing authority shall use any other p-@@ -@@ proof amount to determine the quantity authorised in such a way as to make it impossible to insert data or notes .
+gpu beam : the licensing authority shall use any other means to indicate the quantity authorised in such a way as to make it impossible to insert data or notes . EOS
+gt output: i gave you a chance to sort something out and you 'd rather be doing that ,
+greedy: i gave you a chance to something something out and you 'd better be waiting that ,
+gpu beam : i gave you a chance to somebody work here and you 'd better be waiting for , EOS
+gt output: it 's over with you and gillian , is n't it ?
+greedy: it 's over between you and gillian , is n't it ?
+gpu beam : it 's over between you and gillian , is n't it ? EOS
+gt output: so this maybe boyfriend ... his name on the lease ?
+greedy: just a maybe friend ... his name on the lease ?
+gpu beam : just a little friend ... his name on the lease ? EOS
+gt output: in spanish harlem . - we 'll get him .
+greedy: in spanish harlem . - you 'll find it .
+gpu beam : in spanish harlem . - you can do it . EOS
+gt output: that 's why men are not allowed in here .
+greedy: that 's why men are n't allowed in here .
+gpu beam : that 's why men are n't allowed in here . EOS
+gt output: a beautifully sustained metaphor ! '
+greedy: a beautifully built metaphor ! ''
+gpu beam : a very nice metaphor ! '' EOS
+gt output: with his acquaintances , he 'll easily find you a job with the minister or a good dentist .
+greedy: with his connections , he can easily find himself a job with a minister or a good dentist .
+gpu beam : with his connections , he can easily find himself a job with a minister or a good dentist . EOS
+gt output: are you standing by me ?
+greedy: are you standing by me ?
+gpu beam : are you standing by me ? EOS
+gt output: call me , please .
+greedy: remember me , please .
+gpu beam : remember me , please . EOS
+gt output: the smugglers will thus enable gurney halle@@ ck to meet leto , and the sisterhood plan will be implemented .
+greedy: the smugglers would now have gurney standing ying to meet leto , and the sisterhood device will be performed .
+gpu beam : the smugglers would then have gurney position to meet leto , and the sisterhood device would be executed . EOS
+gt output: i 'm here now though .
+greedy: i 'm still now now .
+gpu beam : i 'm still here now . EOS
+gt output: i 've endured it up to now but i finally understand .
+greedy: i 've made it up to before but i already understand .
+gpu beam : i 've made it up to before and i already have . EOS
+gt output: it was a fig@@ ment of randomly ejected neurons .
+greedy: it was the product ment of randomly shot neurons .
+gpu beam : it was the product of randomly shot neurons . EOS
+gt output: i 'm still waiting .
+greedy: i 'm still waiting .
+gpu beam : i 'm still waiting . EOS
+gt output: there are reports of phaser fire in cargo bay 5 !
+greedy: there are reports of phaser fire in cargo bay 5 !
+gpu beam : there are reports of phaser fire in cargo bay 5 ! EOS
+gt output: as the evening approaches , everyone 's eyes tick , no danger in the morning .
+greedy: if the night days , everyone 's eyes boring , a one of the morning .
+gpu beam : if the night days , everyone 's friends die , the rest of the morning . EOS
+gt output: it 's just ... what i believe .
+greedy: it 's just ... what i believe .
+gpu beam : it 's just ... what i believe . EOS
+gt output: you 're being pursued by a psychotic killer who shoots people in the head .
+greedy: you 're being chased by a psychotic killer who shoots people in the head !
+gpu beam : you 're being chased by a psychotic killer who shoots people in the head ! EOS
+gt output: i like teams . they 're cool .
+greedy: i like sports . they 're good .
+gpu beam : i like sports . they 're good . EOS
+^Cbeam search error, maybe out_np does not end with eos
+gt output: at this range , it 'll break a few ribs .
+greedy: at this distance , it will break a few ribs .
+gpu beam : at this distance , it will break a few ribs . EOS
